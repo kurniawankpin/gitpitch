@@ -35,4 +35,4 @@
 ---
 
 ### Buat Laporan
-![buat laporan](assets/image/buat-laporan)
+![buat laporan](assets/image/buat-laporan.png)
