@@ -15,4 +15,7 @@
 --- 
 ## Tampilan website Epormas
 ### Tampilan Awal
-![tampilan awal](/assets/image/
+![tampilan awal](/assets/image/tampilan-awal)
+
++++
+
