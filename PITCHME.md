@@ -10,6 +10,9 @@
 ### Tujuan Layanan Epormas
 - peningkatan kualitas pelayanan publik sangat diperlukan dalam rangka membangun kepercayaan (trust) masyarakat, dengan menjadikan keluhan atau pengaduan sebagai sarana untuk perbaikan pelayanan publik |
 - pengguna memerlukan pelayanan yang transparan, akuntabel sesuai standar pelayanan berdasarkan persamaan perlakuan dan keterjangkauan masyarakat |
+
++++
+
 - peningkatan kualitas pelayanan publik berbasis partisipasi masyarakat diharapkan akan memberikan kontribusi dan manfaat dalam rangka mewujudkan good public service governance. |
 
 --- 
