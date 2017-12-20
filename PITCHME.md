@@ -15,7 +15,24 @@
 --- 
 ## Tampilan website Epormas
 ### Tampilan Awal
-![tampilan awal](/assets/image/tampilan-awal)
+![tampilan awal](/assets/image/tampilan-awal.png)
 
 +++
 
+### Laporan Warga
+![contoh laporan](/assets/image/contoh-laporan.png)
+
+---
+
+### Map (peta laporan warga pelapor)
+![tampilan map](assets/image/map-laporan-warga.png)
+
+---
+
+### Tabel Laporan Warga
+![tabel laporan](assets/image/tabel-laporan-warga.png)
+
+---
+
+### Buat Laporan
+![buat laporan](assets/image/buat-laporan)
