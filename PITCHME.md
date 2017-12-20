@@ -19,9 +19,17 @@
 ---
 
 ### Analisis dan Perancangan
-#### Kebutuhan Software dan Hardware |
-Adapun alat bantu software dan hardware dalam melakukan analisis dan desain perancanangan ini adalah sebagai berikut:
+#### Kebutuhan Software dan Hardware 
+
 - ##### Software |
 - Ubuntu 17.04 |
 - Typora (markdown) |
 - Gliffy Diagram |
+
++++
+
+- ##### Hardware
+laptop dengan spesifikasi sebagai berikut
+- Intel Celeron N2830 Speed 2.16 Ghz Turbo Boost 2.41 Ghz
+- Memori DDR3 2Gb
+- Hard disk 500 Gb
