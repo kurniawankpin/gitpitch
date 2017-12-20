@@ -28,8 +28,8 @@
 
 +++
 
-- ##### Hardware
+- ##### Hardware |
 laptop dengan spesifikasi sebagai berikut
-- Intel Celeron N2830 Speed 2.16 Ghz Turbo Boost 2.41 Ghz
-- Memori DDR3 2Gb
-- Hard disk 500 Gb
+- Intel Celeron N2830 Speed 2.16 Ghz Turbo Boost 2.41 Ghz |
+- Memori DDR3 2Gb |
+- Hard disk 500 Gb |
