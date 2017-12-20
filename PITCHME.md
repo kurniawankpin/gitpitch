@@ -1,35 +1,18 @@
-# SOP Online
-
-## Design dan Perancangan
+# Website dan Aplikasi Epormas
 
 ---
 
-### Latar Belakang
-- Salah satu sasaran Dinas Komunikasi, Informasi, Statistika dan Persandian adalah membuat sebuah sistem yang terkelola rapi dalam segala hal, baik dalam bidang IT maupun bidang yang lainnya agar mampu menyelenggarakan seluruh kegiatannya secara mandiri dan sesuai dengan ketentuan yang berlaku. |
-
-+++
-
-- Terkait dengan sasaran tersebut kami bertujuan akan membangun standarisasi sistem pengembangan apliaksi yang dapat meningkatkan efisiensi dan efektifitas kinerja dinas terkait serta mampu mebagikan informasi yang dibutuhkan oleh berbagai pihak untuk kepentingan proses pengambilan keputusan. Untuk menuju kepada standarisasi dalam pengembangan aplikasi perlu diciptakan terlebih dahulu sistem manual  terstandar atau semacam Standar Operating Procedur (SOP) untuk seluruh pengembangan aplikasi yang ada sehingga dapat dipahami oleh semua pihak yang terlibat.|
+## Layanan Online Epormas
+- EPORMAS adalah sebuah aplikasi yang berbasis webite dan android yang dikeluarkan oleh Pemerintah Provinsi Banten untuk mendukung terlaksananya proses pengaduan atau keluhan yang mewadahi atau dapat menjadi suatu alat informasi bagi masyarakat dalam menyampaikan informasi keluhan atau pengaduan yang dialami oleh masyarakat kepada dinas-dinas terkait agar proses perbaikan nya cepat dan terorganisir karena memanfaatkan sistem berbasis web dan android. |
 
 ---
 
-### Tujuan
-- Standard Operating Prosedur (SOP) pada dasarnya adalah pedoman yang berisi prosedur-prosedur operasioanl standar yang ada dalam suatu instansi yang digunakan untuk memastikan bahwa semua keputusan  dan tindakan, sertapenggunaan fasilitas-fasilitas proses yang dilakukan oleh orang-orang dalam instansi  berjalan dengan efisien dan efektif , konsisten, standar dan sistematis.|
+## Tujuan Layanan Epormas
+- peningkatan kualitas pelayanan publik sangat diperlukan dalam rangka membangun kepercayaan (trust) masyarakat, dengan menjadikan keluhan atau pengaduan sebagai sarana untuk perbaikan pelayanan publik |
+- pengguna memerlukan pelayanan yang transparan, akuntabel sesuai standar pelayanan berdasarkan persamaan perlakuan dan keterjangkauan masyarakat |
+- peningkatan kualitas pelayanan publik berbasis partisipasi masyarakat diharapkan akan memberikan kontribusi dan manfaat dalam rangka mewujudkan good public service governance. |
 
----
-
-### Analisis dan Perancangan
-#### Kebutuhan Software dan Hardware 
-
-- ##### Software |
-- Ubuntu 17.04 |
-- Typora (markdown) |
-- Gliffy Diagram |
-
-+++
-
-- ##### Hardware |
-laptop dengan spesifikasi sebagai berikut
-- Intel Celeron N2830 Speed 2.16 Ghz Turbo Boost 2.41 Ghz |
-- Memori DDR3 2Gb |
-- Hard disk 500 Gb |
+--- 
+## Tampilan website Epormas
+### Tampilan Awal
+![tampilan awal](/assets/image/
