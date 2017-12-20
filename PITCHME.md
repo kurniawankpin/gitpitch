@@ -20,7 +20,7 @@
 
 ### Analisis dan Perancangan
 - #### Kebutuhan Software dan Hardware |
-Adapun alat bantu software dan hardware dalam melakukan analisis dan desain perancanangan ini adalah sebagai berikut: |
+- Adapun alat bantu software dan hardware dalam melakukan analisis dan desain perancanangan ini adalah sebagai berikut:
 - ##### Software |
 - Ubuntu 17.04 |
 - Typora (markdown) |
