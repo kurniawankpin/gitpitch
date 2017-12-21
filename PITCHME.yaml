@@ -7,11 +7,11 @@
 # Transition Pilih Aja convex, concave, default, fade, none, slide and zoom
 theme : night
 theme-override : assets/css/PITCHME.css
-logo : assets/image/banten-dev.png
+logo : assets/image/Logo-provinsi-Banten.jpg
 highlight : atom-one-light
 transition : concave
 published : true
-footnote : "Banten Development Presentasi Online"
+footnote : "kurniawan slide"
 remote-control: true
 slide-number : true
 background : /assets/image/background.jpg
