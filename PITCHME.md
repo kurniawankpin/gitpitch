@@ -1,4 +1,4 @@
-## Website dan Aplikasi <span class="gold">Epormas</span> 
+## Website dan Aplikasi <span class="white">Epormas</span> 
 
 ---
 
