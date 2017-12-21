@@ -28,7 +28,7 @@ body {
 }
 
 .reveal .slides section .code-presenting-annotation {
-  color: white;
+  color: gray;
   background: #01155c;
   padding: 1px 15px;
   border-radius: 15px;
