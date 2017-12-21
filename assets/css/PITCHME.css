@@ -25,7 +25,7 @@ body {
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
     margin: 0 0 20px 0;
-    color : #FFD700;
+    color : #000000;
     font-family: "Courier New", Impact, DejaVu-serif;;
     font-weight: normal;
     line-height: 1.2;
@@ -61,7 +61,7 @@ body {
 }
 
 #gp-logo img {
-  max-height: 2em;
+  max-height: 3em;
   max-width: none;
 }
 
