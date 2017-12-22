@@ -15,12 +15,10 @@
 ---
 
 - pengguna memerlukan pelayanan yang transparan, akuntabel sesuai standar pelayanan berdasarkan persamaan perlakuan dan keterjangkauan masyarakat |
-
-+++
-
 - peningkatan kualitas pelayanan publik berbasis partisipasi masyarakat diharapkan akan memberikan kontribusi dan manfaat dalam rangka mewujudkan good public service governance. |
 
 --- 
+
 ### Tampilan website Epormas
 #### Tampilan Awal
 ![tampilan awal](/assets/image/tampilan-awal.png)
