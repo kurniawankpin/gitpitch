@@ -19,10 +19,12 @@
 
 --- 
 
-### Tampilan website Epormas
-#### Tampilan Awal
+#### Tampilan website Epormas
+##### Tampilan Awal
 ![tampilan awal](/assets/image/tampilan-awal.png)
 
+<span style="font-size:0.6em; color:white">laporan warga.</span>
+@fa[arrow-down]
 +++
 
 #### Laporan Warga
