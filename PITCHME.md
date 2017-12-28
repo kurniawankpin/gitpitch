@@ -3,8 +3,7 @@
 ---
 
 #### Aplikasi Dashboard Pimpinan
-Sistem Dashboard merupakan suatu sistem berbasis komputer yang dapat membantu suatu pemerintahan untuk meningkatkan kinerja dalam pengambilan keputusan dan memecahkan masalah yang umumnya berada di dalam wilayah dengan dimensi yang beragam. 
-Sistem Dashboard merupakan suatu sistem berbasis komputer yang dapat membantu suatu pemerintahan untuk meningkatkan kinerja dalam pengambilan keputusan dan memecahkan masalah yang umumnya berada di dalam wilayah dengan dimensi yang beragam. 
+Sistem Dashboard merupakan suatu sistem berbasis komputer yang dapat membantu suatu pemerintahan untuk meningkatkan kinerja dalam pengambilan keputusan dan memecahkan masalah yang umumnya berada di dalam wilayah dengan dimensi yang beragam.  
 
 ---
 
