@@ -20,7 +20,7 @@
 
 --- 
 
-#### Tampilan website Dashboard Pimpinan
+### Tampilan website Dashboard Pimpinan
 
 <span style="font-size:0.6em; color:white">Tampilan Awal.</span>
 @fa[arrow-down]
