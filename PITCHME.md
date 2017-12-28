@@ -3,20 +3,20 @@
 ---
 
 #### Aplikasi Dashboard Pimpinan
-- Dashboard Pimpinan adalah suatu aplikasi untuk memantau setiap OPD (Organisasi perangkat Daerah) di pemerintahan Banten. |
-- Dashboard merupakan alat  yang digunakan untuk  mengevaluasi  proses  yang  sedang  berjalan, memonitor kinerja yang sedang berjalan, serta untuk memprediksi  kondisi  di  masa  mendatang |
+Sistem Dashboard merupakan suatu sistem berbasis komputer yang dapat membantu suatu pemerintahan untuk meningkatkan kinerja dalam pengambilan keputusan dan memecahkan masalah yang umumnya berada di dalam wilayah dengan dimensi yang beragam. 
+Sistem Dashboard merupakan suatu sistem berbasis komputer yang dapat membantu suatu pemerintahan untuk meningkatkan kinerja dalam pengambilan keputusan dan memecahkan masalah yang umumnya berada di dalam wilayah dengan dimensi yang beragam. 
 
 ---
 
 #### Tujuan Dashboard Pimpinan
-- peningkatan kualitas pelayanan publik sangat diperlukan dalam rangka membangun kepercayaan (trust) masyarakat, dengan menjadikan keluhan atau pengaduan sebagai sarana untuk perbaikan pelayanan publik 
+- Dashboard Pimpinan adalah suatu aplikasi untuk memantau setiap OPD (Organisasi perangkat Daerah) di pemerintahan Banten |
+- Dashboard merupakan alat  yang digunakan untuk  mengevaluasi  proses  yang  sedang  berjalan, memonitor kinerja yang sedang berjalan, serta untuk memprediksi  kondisi  di  masa  mendatang |
 
-<span style="font-size:0.6em; color:white">selanjutnya.</span>
+<span style="font-size:0.6em; color:white">Selanjutnya.</span>
 @fa[arrow-down]
----
 
-- pengguna memerlukan pelayanan yang transparan, akuntabel sesuai standar pelayanan berdasarkan persamaan perlakuan dan keterjangkauan masyarakat |
-- peningkatan kualitas pelayanan publik berbasis partisipasi masyarakat diharapkan akan memberikan kontribusi dan manfaat dalam rangka mewujudkan good public service governance. |
+-Tujuan dari kegiatan ini adalah agar tersedianya Sistem Informasi Dashboard Pimpinan dan untuk mempermudah pimpinan untuk melihat dan menilai kinerja SKPD (Satuan Kerja Perangkat Daerah) |
+
 
 --- 
 
