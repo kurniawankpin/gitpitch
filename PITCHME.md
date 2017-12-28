@@ -11,9 +11,6 @@ Sistem Dashboard merupakan suatu sistem berbasis komputer yang dapat membantu su
 - Dashboard Pimpinan adalah suatu aplikasi untuk memantau setiap OPD (Organisasi perangkat Daerah) di pemerintahan Banten |
 - Dashboard merupakan alat  yang digunakan untuk  mengevaluasi  proses  yang  sedang  berjalan, memonitor kinerja yang sedang berjalan, serta untuk memprediksi  kondisi  di  masa  mendatang |
 
-<span style="font-size:0.6em; color:white">Selanjutnya.</span>
-@fa[arrow-down]
-
 --- 
 
 ### Tampilan website Dashboard Pimpinan
