@@ -76,12 +76,77 @@
 
 +++
 
-#### 
+#### Tampilan List Pegawai KPO
+![buat laporan](assets/image/list-pegawai-kpo.png)
 
++++
+
+#### Tampilan List Pegawai Esselon
+![buat laporan](assets/image/list-pegawai-esselon.png)
+
++++
+
+#### Tampilan List Pangkat Pegawai
+![buat laporan](assets/image/list-pangkat-pegawai.png)
+
++++
+
+#### Tampilan List Usia ASN
+![buat laporan](assets/image/list-usia-asn.png)
+
++++
+
+#### Tampilan List Pegawai Yang akan Pensiun
+![buat laporan](assets/image/list-pegawai-pensiun.png)
+
+---
+
+### Data Kependudukan
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
+@fa[arrow-down]
+
++++
+
+#### Tampilan List Penduduk
+![buat laporan](assets/image/list-penduduk.png)
+
+---
+
+### Data Kesehatan
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
+@fa[arrow-down]
+
++++
+
+#### List Tim Medis
+![buat laporan](assets/image/list-tim-medis.png)
+
++++
+
+#### Fasilitas Kesehatan
+![buat laporan](assets/image/kamar-rawat-inap.png)
+
++++
+
+#### Kamar Rawat Inap
+![buat laporan](assets/image/fasilitas-kesehatan.png)
+
+---
+
+### Data Kependidikan
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
+@fa[arrow-down]
+
++++
+
+#### Data Kependidikan
+![buat laporan](assets/image/list-pendidikan.png)
+
+---
 
 
 
 ### SEKIAN
-# Dinas <span class="gold">KominfoST</span>
+## Dinas <span class="gold">KominfoST</span>
 
 #### Seksi Pengembangan Aplikasi Informatika.*
