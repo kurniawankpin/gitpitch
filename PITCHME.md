@@ -139,12 +139,67 @@
 
 +++
 
-#### Data Kependidikan
+#### List Kependidikan
 ![buat laporan](assets/image/list-pendidikan.png)
 
 ---
 
+### Data Epormas
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
+@fa[arrow-down]
 
++++
+
+#### List Epormas
+![buat laporan](assets/image/list-epormas.png)
+
+---
+
+### Data Master
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
+@fa[arrow-down]
+
++++
+
+#### Users List
+![buat laporan](assets/image/user-list.png)
+
++++
+
+#### Role Users
+![buat laporan](assets/image/role-users.png)
+
++++
+
+#### Permissions 
+![buat laporan](assets/image/permission-table.png)
+
++++
+
+#### Api Manager
+![buat laporan](assets/image/api-manager.png)
+
++++
+
+#### Workflow
+![buat laporan](assets/image/table-workflow.png)
+
++++
+
+#### Workflow State
+![buat laporan](assets/image/workflow-state.png)
+
++++
+
+#### Workflow Transition
+![buat laporan](assets/image/workflow-transition.png)
+
++++
+
+#### Workflow History
+![buat laporan](assets/image/workflow-history.png)
+
+---
 
 ### SEKIAN
 ## Dinas <span class="gold">KominfoST</span>
