@@ -86,9 +86,113 @@ SIMBADA adalah sebuah aplikasi Sistem Informasi Manajemen Aset Barang Daerah yan
 ---
 
 ### Tampilan Menu Perencanaan
+<span style="font-size:0.6em; color:white">Selanjutnya RKBU/RKPBU</span>
+@fa[arrow-down]
+
++++
+
+#### Tanah
 <span style="font-size:0.6em; color:white">Selanjutnya</span>
 @fa[arrow-down]
 
++++ 
+
+##### Jalan dan Jembatan
+
++++
+
+##### Bangunan Air
+
++++
+
+##### Instalasi
+
++++
+
+##### Jaringan 
+
++++
+
+##### Bangunan Gedung
+
++++
+
+##### Monumen
+
+---
+
+#### Kendaraan
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
+@fa[arrow-down]
+
++++ 
+
+##### Alat Besar
+
++++
+
+##### Alat Angkut
+
+---
+
+#### Lain-lain
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
+@fa[arrow-down]
+
++++
+
+##### Alat Bengkel
+
++++
+
+##### Alat Pertanian
+
++++
+
+##### Alat Kantor
+
++++
+
+##### Alat Studio'
+
++++
+
+##### Alat Kedokteran
+
++++
+
+##### Alat Laboratorium
+
++++
+
+##### Buku/perpustakaan
+
++++
+
+##### Kesenian dan Kebudayaan
+
++++
+
+##### Hewan dan Tumbuhan
+
++++
+
+##### Alat Keamanan
+
+---
+
+### Tampilan Menu Perencanaan
+<span style="font-size:0.6em; color:white">Selanjutnya RTBU/RTPBU</span>
+@fa[arrow-down]
+
+---
+
+
+### Tampilan Menu Perencanaan
+<span style="font-size:0.6em; color:white">Selanjutnya Laporan</span>
+@fa[arrow-down]
+
+---
 
 ### SEKIAN
 ## Dinas <span class="gold">KominfoST</span>
