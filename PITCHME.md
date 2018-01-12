@@ -1,4 +1,4 @@
-## Aplikasi Sistem Informasi Barang Daerah <span class="white">Simbada</span> 
+## Aplikasi Sistem Informasi Barang Daerah <span class="white">SIMBADA</span> 
 
 ---
 
